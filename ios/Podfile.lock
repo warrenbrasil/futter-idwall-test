@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - idwall_sdk (3.2.0):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - idwall_sdk (from `.symlinks/plugins/idwall_sdk/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  idwall_sdk:
+    :path: ".symlinks/plugins/idwall_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  idwall_sdk: cb285be58db24d738f574a8d11c8cf360bc155b3
+
+PODFILE CHECKSUM: 7c7e4cd9ef56cb0c2201a5e4c8ac2cd40112ac57
+
+COCOAPODS: 1.12.1
