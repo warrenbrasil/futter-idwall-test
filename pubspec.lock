@@ -95,9 +95,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "3.2.1"
-      resolved-ref: "7b057eb1505dda2e9536ba24d9ea5124d52d55a3"
-      url: "git@github.com:warrenbrasil/flutter-idwall-sdk.git"
+      ref: "1231aec66d36b69e64819c22bb3306b62b6e8640"
+      resolved-ref: "1231aec66d36b69e64819c22bb3306b62b6e8640"
+      url: "git@github.com:suporteIdwall/warren-idwall.git"
     source: git
     version: "3.2.0"
   js:

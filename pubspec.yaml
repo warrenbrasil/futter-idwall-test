@@ -39,8 +39,8 @@ dependencies:
   flutter_riverpod: ^1.0.3
   idwall_sdk:
     git:
-      url: git@github.com:warrenbrasil/flutter-idwall-sdk.git
-      ref: 3.2.1
+      url: git@github.com:suporteIdwall/warren-idwall.git
+      ref: 1231aec66d36b69e64819c22bb3306b62b6e8640
 
 dev_dependencies:
   flutter_test:
