@@ -95,11 +95,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "1231aec66d36b69e64819c22bb3306b62b6e8640"
-      resolved-ref: "1231aec66d36b69e64819c22bb3306b62b6e8640"
+      ref: "272fa00ed07b9a168f5ebd98aba11ba55791ecb3"
+      resolved-ref: "272fa00ed07b9a168f5ebd98aba11ba55791ecb3"
       url: "git@github.com:suporteIdwall/warren-idwall.git"
     source: git
-    version: "3.2.0"
+    version: "3.3.0"
   js:
     dependency: transitive
     description:
